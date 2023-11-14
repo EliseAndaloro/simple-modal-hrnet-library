@@ -11,7 +11,6 @@ import "./modal.css";
  */
 function Modal({ closeModal, message }) {
     return (
-        <>
             <div className="modal-body">
                 <div className="modal-wrapper">
                     <div className="modal">
@@ -28,7 +27,6 @@ function Modal({ closeModal, message }) {
                     </div>
                 </div>
             </div>
-        </>
     );
 }
 
