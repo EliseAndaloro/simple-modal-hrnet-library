@@ -4,6 +4,11 @@
 
 A simple and reusable Modal component for React
 
+## Prerequisites
+
+- Un éditeur de texte comme [VsCode](https://code.visualstudio.com/download)
+- [Node.js = v.18.12.1](https://nodejs.org/en/)
+- [Git](https://git-scm.com/)
 
 ## Installation
 
